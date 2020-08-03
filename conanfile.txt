@@ -1,0 +1,8 @@
+[requires]
+libcurl/7.61.1@bincrafters/stable
+rapidxml/1.13@bincrafters/stable
+catch2/2.5.0@bincrafters/stable
+openblas/0.3.5@darcamo/stable
+[generators]
+cmake
+
